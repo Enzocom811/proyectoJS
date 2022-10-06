@@ -1,3 +1,5 @@
+/* HEADER */
+/* logo */
 img {
     width: 100%;
 }
@@ -17,7 +19,8 @@ img {
     'GRAD' 0,
     'opsz' 48
 }
-
+/* fin logo */
+/* navbar */
 nav {
     background-color: #F0D583;
 }
@@ -35,7 +38,10 @@ a {
     color: black;
     font-weight: bold;
 }
+/* fin navbar */
+/* FIN HEADER */
 
+/* SEARCH */
 section {
     display: flex;
     justify-content: center;
@@ -55,12 +61,16 @@ button {
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
 }
+/* FIN SECTION */
 
+/* MAIN */
 main div {
     padding: 300px;
     background-color: #C0C8EB;
 }
+/* FIN MAIN */
 
+/* FOOTER */
 footer {
     background-color: #F0D583;
 }
@@ -76,3 +86,4 @@ footer div p {
     font-weight: bold;
     margin: 0
 }
+/* FIN FOOTER */
