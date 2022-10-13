@@ -1,0 +1,122 @@
+[
+    {
+        "imagen": "../images/remeras/remera-1.jpg",
+        "nombre": "Remera Estampada Negra",
+        "id": 1,
+        "precio": 1499,
+        "categoria": "Remera",
+        "stock": 500
+    },
+    {
+        "imagen": "../images/remeras/remera-2.jpg",
+        "nombre": "Remera Estampada Blanca",
+        "id": 2,
+        "precio": 1299,
+        "categoria": "Remera",
+        "stock": 400
+    },
+    {
+        "imagen": "../images/remeras/remera-3.jpeg",
+        "nombre": "Remera Lisa Amarilla",
+        "id": 3,
+        "precio": 1749,
+        "categoria": "Remera",
+        "stock": 350
+    },
+    {
+        "imagen": "../images/pantalones/pantalones-1.jpg",
+        "nombre": "Remera Estampada Negra",
+        "id": 1,
+        "precio": 1499,
+        "categoria": "Remera",
+        "stock": 500
+    },
+    {
+        "imagen": "../images/pantalones/pantalones-2.jpg",
+        "nombre": "Remera Estampada Blanca",
+        "id": 2,
+        "precio": 1299,
+        "categoria": "Remera",
+        "stock": 400
+    },
+    {
+        "imagen": "../images/pantalones/pantalones.jpg",
+        "nombre": "Remera Lisa Amarilla",
+        "id": 3,
+        "precio": 1749,
+        "categoria": "Remera",
+        "stock": 350
+    },
+    {
+        "imagen": "../images/buzos/buzo-1.jpg",
+        "nombre": "Remera Estampada Negra",
+        "id": 1,
+        "precio": 1499,
+        "categoria": "Remera",
+        "stock": 500
+    },
+    {
+        "imagen": "../images/buzos/buzo-2.jpg",
+        "nombre": "Remera Estampada Blanca",
+        "id": 2,
+        "precio": 1299,
+        "categoria": "Remera",
+        "stock": 400
+    },
+    {
+        "imagen": "../images/buzos/buzo-3.jpg",
+        "nombre": "Remera Lisa Amarilla",
+        "id": 3,
+        "precio": 1749,
+        "categoria": "Remera",
+        "stock": 350
+    },
+    {
+        "imagen": "../images/tapados/tapado-2.jpg",
+        "nombre": "Remera Estampada Negra",
+        "id": 1,
+        "precio": 1499,
+        "categoria": "Remera",
+        "stock": 500
+    },
+    {
+        "imagen": "../images/tapados/tapados.jpeg",
+        "nombre": "Remera Estampada Blanca",
+        "id": 2,
+        "precio": 1299,
+        "categoria": "Remera",
+        "stock": 400
+    },
+    {
+        "imagen": "../images/tapados/tapado-3.jpg",
+        "nombre": "Remera Lisa Amarilla",
+        "id": 3,
+        "precio": 1749,
+        "categoria": "Remera",
+        "stock": 350
+    },
+    {
+        "imagen": "../images/zapatillas/zapas-2.jpg",
+        "nombre": "Remera Estampada Negra",
+        "id": 1,
+        "precio": 1499,
+        "categoria": "Remera",
+        "stock": 500
+    },
+    {
+        "imagen": "../images/zapatillas/zapas-1.jpg",
+        "nombre": "Remera Estampada Blanca",
+        "id": 2,
+        "precio": 1299,
+        "categoria": "Remera",
+        "stock": 400
+    },
+    {
+        "imagen": "../images/zapatillas/zapas-3.jpg",
+        "nombre": "Remera Lisa Amarilla",
+        "id": 3,
+        "precio": 1749,
+        "categoria": "Remera",
+        "stock": 350
+    }
+]

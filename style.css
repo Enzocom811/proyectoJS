@@ -23,6 +23,7 @@ img {
 /* navbar */
 nav {
     background-color: #F0D583;
+    padding: 15px;
 }
 
 ul {
@@ -47,6 +48,7 @@ section {
     justify-content: center;
     padding: 10px;
     background-color: #C0C8EB;
+    padding: 25px;
 }
 
 section input {
@@ -54,6 +56,10 @@ section input {
     border-top-left-radius: 5px;
     border: 0px;
     outline: none;
+}
+
+section input #search {
+    margin: 20px;
 }
 
 button {
@@ -64,10 +70,47 @@ button {
 /* FIN SECTION */
 
 /* MAIN */
-main div {
-    padding: 300px;
+main{
     background-color: #C0C8EB;
 }
+
+/* Card */
+main #contenedorProductos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+main #contenedorProductos .card {
+    background-color: #FFE9A6;
+    margin: 41px;
+}
+
+main #contenedorProductos .card .card-body h5 {
+    display: flex;
+    justify-content: center;
+}
+
+main #contenedorProductos .card .card-body p {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size:x-large;
+}
+
+main #contenedorProductos .card .card-body div {
+    display: flex;
+    justify-content: center;
+}
+
+main #contenedorProductos .card .card-body div .btn {
+    border: 1px solid #394CA3;
+    background-color: #C0C8EB;
+    font-weight: 500;
+    color: #394CA3;
+}
+/* Fin Card */
+
 /* FIN MAIN */
 
 /* FOOTER */
@@ -76,7 +119,7 @@ footer {
 }
 
 footer div {
-    padding: 25px;
+    padding: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
