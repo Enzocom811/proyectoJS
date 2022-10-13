@@ -25,7 +25,7 @@
     },
     {
         "imagen": "../images/pantalones/pantalones-1.jpg",
-        "nombre": "Remera Estampada Negra",
+        "nombre": "Pantalon Beige",
         "id": 1,
         "precio": 1499,
         "categoria": "Remera",
@@ -33,7 +33,7 @@
     },
     {
         "imagen": "../images/pantalones/pantalones-2.jpg",
-        "nombre": "Remera Estampada Blanca",
+        "nombre": "Cargo Negro",
         "id": 2,
         "precio": 1299,
         "categoria": "Remera",
@@ -41,7 +41,7 @@
     },
     {
         "imagen": "../images/pantalones/pantalones.jpg",
-        "nombre": "Remera Lisa Amarilla",
+        "nombre": "Pantalon Blanco",
         "id": 3,
         "precio": 1749,
         "categoria": "Remera",
@@ -49,7 +49,7 @@
     },
     {
         "imagen": "../images/buzos/buzo-1.jpg",
-        "nombre": "Remera Estampada Negra",
+        "nombre": "Buzo Oversize",
         "id": 1,
         "precio": 1499,
         "categoria": "Remera",
@@ -57,7 +57,7 @@
     },
     {
         "imagen": "../images/buzos/buzo-2.jpg",
-        "nombre": "Remera Estampada Blanca",
+        "nombre": "Buzo Oversize",
         "id": 2,
         "precio": 1299,
         "categoria": "Remera",
@@ -65,7 +65,7 @@
     },
     {
         "imagen": "../images/buzos/buzo-3.jpg",
-        "nombre": "Remera Lisa Amarilla",
+        "nombre": "Buzo Oversize",
         "id": 3,
         "precio": 1749,
         "categoria": "Remera",
@@ -73,7 +73,7 @@
     },
     {
         "imagen": "../images/tapados/tapado-2.jpg",
-        "nombre": "Remera Estampada Negra",
+        "nombre": "Tapado",
         "id": 1,
         "precio": 1499,
         "categoria": "Remera",
@@ -81,7 +81,7 @@
     },
     {
         "imagen": "../images/tapados/tapados.jpeg",
-        "nombre": "Remera Estampada Blanca",
+        "nombre": "Tapado",
         "id": 2,
         "precio": 1299,
         "categoria": "Remera",
@@ -89,7 +89,7 @@
     },
     {
         "imagen": "../images/tapados/tapado-3.jpg",
-        "nombre": "Remera Lisa Amarilla",
+        "nombre": "Tapado",
         "id": 3,
         "precio": 1749,
         "categoria": "Remera",
@@ -97,7 +97,7 @@
     },
     {
         "imagen": "../images/zapatillas/zapas-2.jpg",
-        "nombre": "Remera Estampada Negra",
+        "nombre": "Zapatillas All Star",
         "id": 1,
         "precio": 1499,
         "categoria": "Remera",
@@ -105,7 +105,7 @@
     },
     {
         "imagen": "../images/zapatillas/zapas-1.jpg",
-        "nombre": "Remera Estampada Blanca",
+        "nombre": "Zapatillas Converse",
         "id": 2,
         "precio": 1299,
         "categoria": "Remera",
@@ -113,7 +113,7 @@
     },
     {
         "imagen": "../images/zapatillas/zapas-3.jpg",
-        "nombre": "Remera Lisa Amarilla",
+        "nombre": "Zapatillas Nike",
         "id": 3,
         "precio": 1749,
         "categoria": "Remera",

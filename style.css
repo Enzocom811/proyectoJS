@@ -39,6 +39,10 @@ a {
     color: black;
     font-weight: bold;
 }
+
+a:hover {
+    color: #8497F0
+}
 /* fin navbar */
 /* FIN HEADER */
 
@@ -84,6 +88,12 @@ main #contenedorProductos{
 main #contenedorProductos .card {
     background-color: #FFE9A6;
     margin: 41px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+main #contenedorProductos .card:hover {
+    transform: scale(1.025);
+    transition: all 0.3s;
 }
 
 main #contenedorProductos .card .card-body h5 {
