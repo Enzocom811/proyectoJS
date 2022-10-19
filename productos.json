@@ -5,7 +5,8 @@
         "id": 1,
         "precio": 1499,
         "categoria": "Remera",
-        "stock": 500
+        "stock": 500,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/remeras/remera-2.jpg",
@@ -13,7 +14,8 @@
         "id": 2,
         "precio": 1299,
         "categoria": "Remera",
-        "stock": 400
+        "stock": 400,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/remeras/remera-3.jpeg",
@@ -21,102 +23,115 @@
         "id": 3,
         "precio": 1749,
         "categoria": "Remera",
-        "stock": 350
+        "stock": 350,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/pantalones/pantalones-1.jpg",
         "nombre": "Pantalon Beige",
-        "id": 1,
+        "id": 4,
         "precio": 1499,
-        "categoria": "Remera",
-        "stock": 500
+        "categoria": "Pantalones",
+        "stock": 500,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/pantalones/pantalones-2.jpg",
         "nombre": "Cargo Negro",
-        "id": 2,
+        "id": 5,
         "precio": 1299,
-        "categoria": "Remera",
-        "stock": 400
+        "categoria": "Pantalones",
+        "stock": 400,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/pantalones/pantalones.jpg",
         "nombre": "Pantalon Blanco",
-        "id": 3,
+        "id": 6,
         "precio": 1749,
-        "categoria": "Remera",
-        "stock": 350
+        "categoria": "Pantalones",
+        "stock": 350,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/buzos/buzo-1.jpg",
         "nombre": "Buzo Oversize",
-        "id": 1,
+        "id": 7,
         "precio": 1499,
         "categoria": "Remera",
-        "stock": 500
+        "stock": 500,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/buzos/buzo-2.jpg",
         "nombre": "Buzo Oversize",
-        "id": 2,
+        "id": 8,
         "precio": 1299,
         "categoria": "Remera",
-        "stock": 400
+        "stock": 400,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/buzos/buzo-3.jpg",
         "nombre": "Buzo Oversize",
-        "id": 3,
+        "id": 9,
         "precio": 1749,
         "categoria": "Remera",
-        "stock": 350
+        "stock": 350,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/tapados/tapado-2.jpg",
         "nombre": "Tapado",
-        "id": 1,
+        "id": 10,
         "precio": 1499,
         "categoria": "Remera",
-        "stock": 500
+        "stock": 500,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/tapados/tapados.jpeg",
         "nombre": "Tapado",
-        "id": 2,
+        "id": 11,
         "precio": 1299,
         "categoria": "Remera",
-        "stock": 400
+        "stock": 400,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/tapados/tapado-3.jpg",
         "nombre": "Tapado",
-        "id": 3,
+        "id": 12,
         "precio": 1749,
         "categoria": "Remera",
-        "stock": 350
+        "stock": 350,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/zapatillas/zapas-2.jpg",
         "nombre": "Zapatillas All Star",
-        "id": 1,
+        "id": 13,
         "precio": 1499,
         "categoria": "Remera",
-        "stock": 500
+        "stock": 500,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/zapatillas/zapas-1.jpg",
         "nombre": "Zapatillas Converse",
-        "id": 2,
+        "id": 14,
         "precio": 1299,
         "categoria": "Remera",
-        "stock": 400
+        "stock": 400,
+        "descripcion": "lorem"
     },
     {
         "imagen": "../images/zapatillas/zapas-3.jpg",
         "nombre": "Zapatillas Nike",
-        "id": 3,
+        "id": 15,
         "precio": 1749,
         "categoria": "Remera",
-        "stock": 350
+        "stock": 350,
+        "descripcion": "lorem"
     }
 ]
