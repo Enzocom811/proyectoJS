@@ -81,7 +81,7 @@ export const eventoInput = () =>{
         if(resultado.length > 0 ){
             generarCards(resultado)
         }else{
-            contenedorProductos.innerHTML = `<h3>No se encontraron resultados</h3>`
+            contenedorProductos.innerHTML = `<h3 class="no-encuentra">No se encontraron resultados</h3>`
         }
     })
 }

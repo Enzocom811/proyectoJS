@@ -91,10 +91,10 @@ main #contenedorProductos .card {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-main #contenedorProductos .card:hover {
+/* main #contenedorProductos .card:hover {
     transform: scale(1.025);
     transition: all 0.3s;
-}
+} */
 
 main #contenedorProductos .card .card-body h5 {
     display: flex;
@@ -120,6 +120,21 @@ main #contenedorProductos .card .card-body div .btn {
     color: #394CA3;
 }
 /* Fin Card */
+
+/* Carousel */
+#carousel {
+    padding: 0;
+}
+
+/* Mapa */
+main .contenedor-mapa {
+    background-color: #C0C8EB;
+}
+
+/* No encuentra productos */
+.no-encuentra {
+    padding: 480px 0;
+}
 
 /* FIN MAIN */
 
