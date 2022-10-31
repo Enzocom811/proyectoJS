@@ -6,7 +6,7 @@
         "precio": 1499,
         "categoria": "Remera",
         "stock": 500,
-        "descripcion": "lorem"
+        "descripcion": "Remera estampada negra 100% algodón."
     },
     {
         "imagen": "../images/remeras/remera-2.jpg",
@@ -15,7 +15,7 @@
         "precio": 1299,
         "categoria": "Remera",
         "stock": 400,
-        "descripcion": "lorem"
+        "descripcion": "Remera estampada blanca 100% algodón."
     },
     {
         "imagen": "../images/remeras/remera-3.jpeg",
@@ -24,7 +24,7 @@
         "precio": 1749,
         "categoria": "Remera",
         "stock": 350,
-        "descripcion": "lorem"
+        "descripcion": "Remera lisa amarilla 100% algodón."
     },
     {
         "imagen": "../images/pantalones/pantalones-1.jpg",
@@ -33,7 +33,7 @@
         "precio": 1499,
         "categoria": "Pantalones",
         "stock": 500,
-        "descripcion": "lorem"
+        "descripcion": "Pantalon beige de bengalina"
     },
     {
         "imagen": "../images/pantalones/pantalones-2.jpg",
@@ -42,7 +42,7 @@
         "precio": 1299,
         "categoria": "Pantalones",
         "stock": 400,
-        "descripcion": "lorem"
+        "descripcion": "Pantalón cargo negro de gabardina"
     },
     {
         "imagen": "../images/pantalones/pantalones.jpg",
@@ -51,7 +51,7 @@
         "precio": 1749,
         "categoria": "Pantalones",
         "stock": 350,
-        "descripcion": "lorem"
+        "descripcion": "Pantalón jogging blanco"
     },
     {
         "imagen": "../images/buzos/buzo-1.jpg",
@@ -60,7 +60,7 @@
         "precio": 1499,
         "categoria": "Remera",
         "stock": 500,
-        "descripcion": "lorem"
+        "descripcion": "Buzo de jogging oversize"
     },
     {
         "imagen": "../images/buzos/buzo-2.jpg",
@@ -69,7 +69,7 @@
         "precio": 1299,
         "categoria": "Remera",
         "stock": 400,
-        "descripcion": "lorem"
+        "descripcion": "Buzo de jogging oversize"
     },
     {
         "imagen": "../images/buzos/buzo-3.jpg",
@@ -78,7 +78,7 @@
         "precio": 1749,
         "categoria": "Remera",
         "stock": 350,
-        "descripcion": "lorem"
+        "descripcion": "Buzo de jogging oversize"
     },
     {
         "imagen": "../images/tapados/tapado-2.jpg",
@@ -87,7 +87,7 @@
         "precio": 1499,
         "categoria": "Remera",
         "stock": 500,
-        "descripcion": "lorem"
+        "descripcion": "Tapado largo de paño"
     },
     {
         "imagen": "../images/tapados/tapados.jpeg",
@@ -96,7 +96,7 @@
         "precio": 1299,
         "categoria": "Remera",
         "stock": 400,
-        "descripcion": "lorem"
+        "descripcion": "Tapado largo de peluche"
     },
     {
         "imagen": "../images/tapados/tapado-3.jpg",
@@ -105,7 +105,7 @@
         "precio": 1749,
         "categoria": "Remera",
         "stock": 350,
-        "descripcion": "lorem"
+        "descripcion": "Tapado largo de paño"
     },
     {
         "imagen": "../images/zapatillas/zapas-2.jpg",
@@ -114,7 +114,7 @@
         "precio": 1499,
         "categoria": "Remera",
         "stock": 500,
-        "descripcion": "lorem"
+        "descripcion": "Zapatillas de lona All Star"
     },
     {
         "imagen": "../images/zapatillas/zapas-1.jpg",
@@ -123,7 +123,7 @@
         "precio": 1299,
         "categoria": "Remera",
         "stock": 400,
-        "descripcion": "lorem"
+        "descripcion": "Zapatillas de lona Converse"
     },
     {
         "imagen": "../images/zapatillas/zapas-3.jpg",
@@ -132,6 +132,6 @@
         "precio": 1749,
         "categoria": "Remera",
         "stock": 350,
-        "descripcion": "lorem"
+        "descripcion": "Zapatilla estilo deportiva Nike"
     }
 ]
